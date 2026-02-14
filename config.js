@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Anu",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Would you take over the world with me?",                                    // First interaction
+            yesBtn: "Hell Yes!",                                             // Text for "Yes" button
+            noBtn: "Ew...",                                               // Text for "No" button
+            secretAnswer: "No, you'll take over the world with ME!"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Anu my sweet pookums and sweet honey bunches of oats if I asked you to be my valentines would you say yes?", // The big question!
+            yesBtn: "YESSS I WOULD LOVE TO 🥺🥺🥺",                                             // Text for "Yes" button
+            noBtn: "Get away from me 😭🙏"                                                 // Text for "No" button
         }
     },
 
